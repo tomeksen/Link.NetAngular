@@ -99,3 +99,6 @@ C:\Users\Administrador\Desktop\proyectos\práctica linkedin\proyecto angular.Net
 C:\Users\Administrador\Desktop\proyectos\práctica linkedin\proyecto angular.Net\Link.NetAngular\NetProjectAngular\NetProjectAngular\obj\Debug\NetProjectAngular.pdb
 C:\Users\Administrador\Desktop\proyectos\práctica linkedin\proyecto angular.Net\Link.NetAngular\NetProjectAngular\NetProjectAngular\obj\Debug\NetProjectAngular.Migrations.Initial.resources
 C:\Users\Administrador\Desktop\proyectos\práctica linkedin\proyecto angular.Net\Link.NetAngular\NetProjectAngular\NetProjectAngular\obj\Debug\NetProjectAngular.csproj.GenerateResource.cache
+C:\Users\Administrador\Desktop\proyectos\práctica linkedin\proyecto angular.Net\Link.NetAngular\NetProjectAngular\NetProjectAngular\bin\System.Web.Cors.dll
+C:\Users\Administrador\Desktop\proyectos\práctica linkedin\proyecto angular.Net\Link.NetAngular\NetProjectAngular\NetProjectAngular\bin\System.Web.Http.Cors.dll
+C:\Users\Administrador\Desktop\proyectos\práctica linkedin\proyecto angular.Net\Link.NetAngular\NetProjectAngular\NetProjectAngular\bin\System.Web.Http.Cors.xml
